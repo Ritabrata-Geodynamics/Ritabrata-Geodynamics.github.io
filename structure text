@@ -1,0 +1,14 @@
+your-repository/
+├── _config.yml          # Site configuration
+├── index.md            # Homepage
+├── _pages/
+│   ├── publications.md
+│   ├── research.md
+│   ├── teaching.md
+│   └── cv.md
+├── _posts/             # Blog posts
+├── assets/
+│   ├── images/
+│   └── pdfs/
+└── _layouts/
+    └── default.html
