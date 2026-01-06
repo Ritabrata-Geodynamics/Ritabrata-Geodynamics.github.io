@@ -1,0 +1,14 @@
+title: "Ritabrata Dasgupta"
+email: "ritabrata.dasgupta@univ-lyon1.fr"
+description: "MSCA Postdoctoral Researcher at Universite Claude Bernard Lyon 1"
+baseurl: ""
+url: "https://Ritabrata-Geodynamics.github.io"
+github_username: Ritabrata-Geodynamics
+twitter_username: yourhandle
+
+theme: minima  # Or choose another Jekyll theme
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
